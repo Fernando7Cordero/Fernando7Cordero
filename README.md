@@ -1,4 +1,4 @@
-**Una vrga pa todo**
+**Repositorio Personal**
 
 <!--
 **Fernando7Cordero/Fernando7Cordero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
